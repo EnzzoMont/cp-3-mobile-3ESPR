@@ -13,8 +13,8 @@ Este projeto é uma aplicação mobile desenvolvida em **React Native com Expo**
 
 | Sessão | Passos | Campos Chave |
 | :--- | :--- | :--- |
-| **Aluno** | 3 Passos (Dados Pessoais, Contato, Curso) | Foto, Nome, RM, Telefone, Email, Endereço, Turma, Estágio [cite: 19, 21-28] |
-| **Professor** | 3 Passos (Dados Pessoais, Contato, Acadêmico) | Foto, Nome, RP, Telefone, Email, Disciplina, Unidade, Tipo de avaliação [cite: 30-37] |
+| **Aluno** | 3 Passos (Dados Pessoais, Contato, Curso) | Foto, Nome, RM, Telefone, Email, Endereço, Turma, Estágio |
+| **Professor** | 3 Passos (Dados Pessoais, Contato, Acadêmico) | Foto, Nome, RP, Telefone, Email, Disciplina, Unidade, Tipo de avaliação |
 
 ## 🛠️ Como Executar o Projeto
 
